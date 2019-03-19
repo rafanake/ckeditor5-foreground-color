@@ -1,7 +1,5 @@
-CKEditor 5 Highlight Color Feature
+CKEditor 5 Foreground Color Feature
 ===================================
-
-Custom Highlighter to add font color to your text within Ckeditor 5.
 
 ## Quick start
 

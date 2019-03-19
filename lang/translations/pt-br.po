@@ -1,0 +1,205 @@
+# Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
+#
+#                                     !!! IMPORTANT !!!
+#
+#         Before you edit this file, please keep in mind that contributing to the project
+#                translations is possible ONLY via the Transifex online service.
+#
+#         To submit your translations, visit https://www.transifex.com/ckeditor/ckeditor5.
+#
+#                   To learn more, check out the official contributor's guide:
+#     https://ckeditor.com/docs/ckeditor5/latest/framework/guides/contributing/contributing.html
+#
+msgid ""
+msgstr ""
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/ckeditor/teams/11143/pt_BR/)\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "Botão para remover a cor da fonte."
+msgid "Remove ForegroundColor"
+msgstr "Remover cor"
+
+msgctxt "Botão na barra de ferramentas para adicionar cor na fonte."
+msgid "ForegroundColor"
+msgstr "Cor da fonte"
+
+msgid "Black 1"
+msgstr "Preto 1"
+
+msgid "Black 2"
+msgstr "Preto 2"
+
+msgid "Black 3"
+msgstr "Preto 3"
+
+msgid "Black 4"
+msgstr "Preto 4"
+
+msgid "Black 5"
+msgstr "Preto 5"
+
+msgid "Black 6"
+msgstr "Preto 6"
+
+msgid "White 1"
+msgstr "Branco 1"
+
+msgid "White 2"
+msgstr "Branco 2"
+
+msgid "White 3"
+msgstr "Branco 3"
+
+msgid "White 4"
+msgstr "Branco 4"
+
+msgid "White 5"
+msgstr "Branco 5"
+
+msgid "White 6"
+msgstr "Branco 6"
+
+msgid "Beige 1"
+msgstr "Bege 1"
+
+msgid "Beige 2"
+msgstr "Bege 2"
+
+msgid "Beige 3"
+msgstr "Bege 3"
+
+msgid "Beige 4"
+msgstr "Bege 4"
+
+msgid "Beige 5"
+msgstr "Bege 5"
+
+msgid "Beige 6"
+msgstr "Bege 6"
+
+msgid "Blue 1"
+msgstr "Azul 1"
+
+msgid "Blue 2"
+msgstr "Azul 2"
+
+msgid "Blue 3"
+msgstr "Azul 3"
+
+msgid "Blue 4"
+msgstr "Azul 4"
+
+msgid "Blue 5"
+msgstr "Azul 5"
+
+msgid "Blue 6"
+msgstr "Azul 6"
+
+msgid "Red 1"
+msgstr "Vermelho 1"
+
+msgid "Red 2"
+msgstr "Vermelho 2"
+
+msgid "Red 3"
+msgstr "Vermelho 3"
+
+msgid "Red 4"
+msgstr "Vermelho 4"
+
+msgid "Red 5"
+msgstr "Vermelho 5"
+
+msgid "Red 6"
+msgstr "Vermelho 6"
+
+msgid "Green 1"
+msgstr "Verde 1"
+
+msgid "Green 2"
+msgstr "Verde 2"
+
+msgid "Green 3"
+msgstr "Verde 3"
+
+msgid "Green 4"
+msgstr "Verde 4"
+
+msgid "Green 5"
+msgstr "Verde 5"
+
+msgid "Green 6"
+msgstr "Verde 6"
+
+msgid "Purple 1"
+msgstr "Roxo 1"
+
+msgid "Purple 2"
+msgstr "Roxo 2"
+
+msgid "Purple 3"
+msgstr "Roxo 3"
+
+msgid "Purple 4"
+msgstr "Roxo 4"
+
+msgid "Purple 5"
+msgstr "Roxo 5"
+
+msgid "Purple 6"
+msgstr "Roxo 6"
+
+msgid "Cyan 1"
+msgstr "Ciano 1"
+
+msgid "Cyan 2"
+msgstr "Ciano 2"
+
+msgid "Cyan 3"
+msgstr "Ciano 3"
+
+msgid "Cyan 4"
+msgstr "Ciano 4"
+
+msgid "Cyan 5"
+msgstr "Ciano 5"
+
+msgid "Cyan 6"
+msgstr "Ciano 6"
+
+msgid "Orange 1"
+msgstr "Laranja 1"
+
+msgid "Orange 2"
+msgstr "Laranja 2"
+
+msgid "Orange 3"
+msgstr "Laranja 3"
+
+msgid "Orange 4"
+msgstr "Laranja 4"
+
+msgid "Orange 5"
+msgstr "Laranja 5"
+
+msgid "Orange 6"
+msgstr "Laranja 6"
+
+msgid "Yellow 1"
+msgstr "Amarelo 1"
+
+msgid "Yellow 2"
+msgstr "Amarelo 2"
+
+msgid "Yellow 3"
+msgstr "Amarelo 3"
+
+msgid "Yellow 4"
+msgstr "Amarelo 4"
+
+msgid "Yellow 5"
+msgstr "Amarelo 5"
+
+msgid "Yellow 6"
+msgstr "Amarelo 6"

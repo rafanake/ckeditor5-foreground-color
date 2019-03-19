@@ -1,0 +1,15 @@
+.ckeditor5-foreground-color .ck-toolbar{
+   flex-wrap: wrap !important;
+   width: 308px;
+   padding: var(--ck-spacing-small);
+}
+.ckeditor5-foreground-color .ck-toolbar .ck-button{
+   margin: 0;
+   padding: 0;
+   width: 30px;
+   height: 30px;
+}
+.ckeditor5-foreground-color .ck-toolbar .ck-button .ck.ck-icon{
+   width: 100%;
+   height: 100%;
+}

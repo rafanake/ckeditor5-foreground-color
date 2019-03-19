@@ -8,20 +8,20 @@ Custom Highlighter to add font color to your text within Ckeditor 5.
 First, install the build from npm:
 
 ```bash
-npm i ckeditor5-highlight-color
+npm i ckeditor5-foreground-color
 ```
 
 Use it in your JavaScript application:
 
 ```js
-import Highlight from 'ckeditor5-highlight-color/src/highlight';
+import ForegroundColor from 'ckeditor5-foreground-color/src/foregroundcolor';
 ```
 
 ```example
 ClassicEditor
     .create( document.querySelector( '#editor' ), {
-        plugins: [ Highlight, ... ],
-        toolbar: [ 'highlight', ... ]
+        plugins: [ ForegroundColor, ... ],
+        toolbar: [ 'foregroundcolor', ... ]
     } )
     .then( ... )
     .catch( ... );

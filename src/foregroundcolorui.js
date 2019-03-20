@@ -124,9 +124,7 @@ export default class ForegroundColorUI extends Plugin {
 
       editor.ui.componentFactory.add(name, locale => {
          const buttonView = new ButtonView(locale);
-         console.log(label);
          const localized = this.localizedOptionTitles[ label ] ? this.localizedOptionTitles[ label ] : label;
-         console.log(localized);
 
          buttonView.set({
             label: localized,
